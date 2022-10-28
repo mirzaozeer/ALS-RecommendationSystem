@@ -1,0 +1,3 @@
+#!C:\Users\mirza\PycharmProjects\RecommenderAPI\Scripts\python.exe
+from numba.pycc import main
+main()
